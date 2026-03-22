@@ -52,7 +52,7 @@ ul{
   flex-direction: row;
   flex-wrap: nowrap;
 }
-.recipe-card{
+.experiance{
     border-style: solid;
   flex-grow: 1;
   padding: 20px;
